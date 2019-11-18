@@ -1,6 +1,8 @@
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\model\PowerSourceDb.java
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\servlets\AddAvenger.java
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\model\AvengerDb.java
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\model\Avenger.java
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\servlets\GetAvengers.java
-C:\Users\oicr1\Documents\Year 2\Semester 1\Enterprise Java Development\Assignment 2\luka1_owen2_a2\src\main\java\com\necajevl\luka1_owen2_a2\model\PowerSource.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\model\PowerSourceDb.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\model\Avenger.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\model\AvengerDb.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\servlet\AddAvenger.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\taghandlers\PowerSourceHandler.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\model\PowerSource.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\servlet\GetAvengers.java
+C:\Users\Gunar\Documents\NetBeansProjects\mavenproject2\makesureitwork\makesureitwork\src\main\java\com\necajevl\makesureitwork\db\DBConnector.java

@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.necajevl</groupId>
-    <artifactId>luka1_owen2_a2</artifactId>
+    <artifactId>makesureitwork</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 
-    <name>luka1_owen2_a2</name>
+    <name>makesureitwork</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -21,7 +21,11 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
-        
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>

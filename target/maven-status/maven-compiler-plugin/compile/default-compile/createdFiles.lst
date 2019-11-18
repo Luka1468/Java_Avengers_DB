@@ -1,0 +1,8 @@
+com\necajevl\makesureitwork\servlet\GetAvengers.class
+com\necajevl\makesureitwork\taghandlers\PowerSourceHandler.class
+com\necajevl\makesureitwork\model\Avenger.class
+com\necajevl\makesureitwork\db\DBConnector.class
+com\necajevl\makesureitwork\model\PowerSourceDb.class
+com\necajevl\makesureitwork\model\AvengerDb.class
+com\necajevl\makesureitwork\servlet\AddAvenger.class
+com\necajevl\makesureitwork\model\PowerSource.class
